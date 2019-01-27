@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AWSDemo", "AWSDemo\AWSDemo.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AWS", "AWS\AWS.csproj", "{146973CF-A6BC-4932-B996-9A8F65D17043}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AWSConsole", "AWSConsole\AWSConsole.csproj", "{ACCBC118-E900-4B49-AD64-61661E8A9E02}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{146973CF-A6BC-4932-B996-9A8F65D17043}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{146973CF-A6BC-4932-B996-9A8F65D17043}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{146973CF-A6BC-4932-B996-9A8F65D17043}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACCBC118-E900-4B49-AD64-61661E8A9E02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACCBC118-E900-4B49-AD64-61661E8A9E02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACCBC118-E900-4B49-AD64-61661E8A9E02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACCBC118-E900-4B49-AD64-61661E8A9E02}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

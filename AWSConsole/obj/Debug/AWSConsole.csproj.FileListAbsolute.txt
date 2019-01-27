@@ -1,0 +1,17 @@
+C:\E\VS-Programs\AWS06\AWSDemo\AWSConsole\bin\Debug\AWSConsole.exe.config
+C:\E\VS-Programs\AWS06\AWSDemo\AWSConsole\bin\Debug\AWSConsole.exe
+C:\E\VS-Programs\AWS06\AWSDemo\AWSConsole\bin\Debug\AWSConsole.pdb
+C:\E\VS-Programs\AWS06\AWSDemo\AWSConsole\obj\Debug\AWSConsole.csprojResolveAssemblyReference.cache
+C:\E\VS-Programs\AWS06\AWSDemo\AWSConsole\obj\Debug\AWSConsole.exe
+C:\E\VS-Programs\AWS06\AWSDemo\AWSConsole\obj\Debug\AWSConsole.pdb
+C:\E\VS-Programs\AWS06\AWSDemo\AWSConsole\bin\Debug\AWS.dll
+C:\E\VS-Programs\AWS06\AWSDemo\AWSConsole\bin\Debug\AWSSDK.Core.dll
+C:\E\VS-Programs\AWS06\AWSDemo\AWSConsole\bin\Debug\AWSSDK.S3.dll
+C:\E\VS-Programs\AWS06\AWSDemo\AWSConsole\bin\Debug\AWS.pdb
+C:\E\VS-Programs\AWS06\AWSDemo\AWSConsole\bin\Debug\AWSSDK.Core.pdb
+C:\E\VS-Programs\AWS06\AWSDemo\AWSConsole\bin\Debug\AWSSDK.Core.xml
+C:\E\VS-Programs\AWS06\AWSDemo\AWSConsole\bin\Debug\AWSSDK.S3.pdb
+C:\E\VS-Programs\AWS06\AWSDemo\AWSConsole\bin\Debug\AWSSDK.S3.xml
+C:\E\VS-Programs\AWS06\AWSDemo\AWSConsole\bin\Debug\Newtonsoft.Json.dll
+C:\E\VS-Programs\AWS06\AWSDemo\AWSConsole\bin\Debug\Newtonsoft.Json.pdb
+C:\E\VS-Programs\AWS06\AWSDemo\AWSConsole\bin\Debug\Newtonsoft.Json.xml
