@@ -8,6 +8,9 @@ using System.Text;
 
 namespace AWS
 {
+    /// <summary>
+    /// AWS S3 - Simple Storage Services. Layer.
+    /// </summary>
     public class AWSS3Storage
     {
         private static readonly string FilePathSecrets = @"C:\ServiceLogs\AWS06\AWS06Secretes.txt";
